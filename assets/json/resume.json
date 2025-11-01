@@ -20,12 +20,12 @@
     }
   ],
   "education": [
-      {
+    {
       "institution": "University of Helsinki",
       "location": "Helsinki, Finland",
       "url": "https://www.helsinki.fi/en",
       "area": "Bioinformatics, Data science",
-      "studyType": "MSc",
+      "studyType": "Master of Science",
       "startDate": "2023-09-01",
       "endDate": "2025-07-31",
       "score": "4.59"
@@ -35,7 +35,7 @@
       "location": "Rome, Italy",
       "url": "https://www.uniroma1.it/it/pagina-strutturale/home",
       "area": "Computer Science",
-      "studyType": "BSc",
+      "studyType": "Bachelor of Science",
       "startDate": "2019-09-01",
       "endDate": "2022-10-18",
       "score": "29.11"
@@ -77,43 +77,22 @@
     {
       "name": "Programming",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "R",
-        "Java",
-        "C",
-        "Machine Learning",
-        "Deep Learning",
-        "Pytorch",
-        "scikit-learn",
-        "LoftQ"
-      ]
+      "keywords": ["Python", "R", "Java", "C", "Machine Learning", "Deep Learning", "Pytorch", "scikit-learn", "LoftQ"]
     },
     {
       "name": "Bioinformatics",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "RNAseq data analysis",
-        "Structural bioinformatics"
-      ]
+      "keywords": ["RNAseq data analysis", "Structural bioinformatics"]
     },
     {
       "name": "Data",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Large-scale data processing",
-        "PostgreSQL",
-        "Git version control",
-        "SLURM-based high-performance computing"
-      ]
+      "keywords": ["Large-scale data processing", "PostgreSQL", "Git version control", "SLURM-based high-performance computing"]
     },
     {
       "name": "Other",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Linux/Windows usage",
-        "Basic statistical analysis"
-      ]
+      "keywords": ["Linux/Windows usage", "Basic statistical analysis"]
     }
   ],
   "languages": [
@@ -142,16 +121,10 @@
         "Data Science Theory"
       ]
     },
-        {
+    {
       "name": "Life Sciences",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Bioinformatics",
-        "Neuroinformatics",
-        "Translational medicine",
-        "Pharmacology",
-        "Chemistry"
-      ]
+      "keywords": ["Bioinformatics", "Neuroinformatics", "Translational medicine", "Pharmacology", "Chemistry"]
     }
   ],
   "projects": [
@@ -171,6 +144,7 @@
     {
       "name": "La Cornice Sensazionale: Il dolore dell'innocente cantato senza musica",
       "summary": "In 2020, I wrote and self-published a poetry book titled \"La cornice sensazionale. Il dolore dell'innocente cantato senza musica\" as both a form of self-expression and a challenge to step outside my comfort zone.",
+      "startDate": "2020-01-01",
       "endDate": "2020-06-09",
       "url": "https://www.amazon.it/Cornice-Sensazionale-dolore-dellinnocente-cantato/dp/8835832462"
     }
