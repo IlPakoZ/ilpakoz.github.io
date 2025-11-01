@@ -36,7 +36,6 @@ During my studies in Helsinki, I had the privilege of conducting my thesis resea
 
 I aim to contribute to research that has real-world applications and a meaningful impact on human health and well-being, or on our understanding of our biology. My research interests span AI applications in drug discovery, translational biomedicine, neuroscience, psychology, and psychiatry, as well as data science algorithms and theory. I'm particularly drawn to methodologies such as machine learning, deep learning, reinforcement learning, generative AI, and genetic programming. My interests keep expanding, and I'm always open to exploring new directions!
 
-Beyond research, I wrote and self-published a poetry book in 2020 titled "La cornice sensazionale. Il dolore dell'innocente cantato senza musica" as both a form of self-expression and a challenge to step outside my comfort zone.
 I have a passion for working out, singing, writing, and languages. My interests that span both science and the arts. On the scientific side, I am fascinated by chemistry, data science theory, and biotechnologies. Artistic interests include martial arts, dance, learning Chinese and Thai languages, playing instruments, music theory, and much more.
 
 I am currently learning Chinese through self-study and offer Italian language lessons for English speakers <a href="https://www.superprof.fi/italian-native-speaker-and-writer-will-teach-you-italian-for-beginner-intermediates-and-advanced.html">here</a>.
