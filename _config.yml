@@ -195,7 +195,6 @@ exclude:
   - _pages/repositories.md
   - _people/
   - _posts/
-  - _projects/
   - purgecss.config.js
   - README.md
   - readme_preview/
