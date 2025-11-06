@@ -10,7 +10,7 @@ categories: poetry italian
 #tags: 
 buy_link: https://www.amazon.it/Cornice-Sensazionale-dolore-dellinnocente-cantato/dp/8835832462
 #started: 2024-08-23
-#finished: 2024-09-07
+finished: 2020-06-09
 released: 2020
 #stars: 5
 #goodreads_review: 6318556633
