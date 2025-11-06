@@ -44,7 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{
+        },{id: "books-la-cornice-sensazionale",
+          title: 'La Cornice Sensazionale',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/la_cornice_sensazionale/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
