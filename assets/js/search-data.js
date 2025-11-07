@@ -49,6 +49,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/la_cornice_sensazionale/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/DLRNA-BERTa/";
             },},{
         id: 'social-email',
         title: 'email',
