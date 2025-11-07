@@ -12,7 +12,7 @@ DLRNA-BERTa is a Large Language Model (LLM) that can be used for predicting Drug
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dlrnaberta/architecture.jpg" title=dl-rnaberta_architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dlrnaberta/architecture.jpg" title="dl-rnaberta_architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -23,7 +23,7 @@ The project, which started as my master's thesis, was improved and is currently 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dlrnaberta/web_interface.jpg" title=dl-rnaberta_architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dlrnaberta/web_interface.jpg" title="web_interface" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
