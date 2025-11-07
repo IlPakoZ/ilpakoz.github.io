@@ -30,5 +30,3 @@ The project, which started as my master's thesis, was improved and is currently 
     Here an image of the Hugging Face interface to test the model. The model can be tested <a href="https://huggingface.co/spaces/IlPakoZ/DLRNA-BERTa">here</a>.
 </div>
 
-
-{% endraw %}
