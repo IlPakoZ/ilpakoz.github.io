@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
@@ -44,10 +44,17 @@ ninja.data = [{
               window.location.href = "/books/la_cornice_sensazionale/";
             },},{id: "projects-dlrna-berta-llm-model-for-drug-rna-target-binding-affinity-prediction",
           title: 'DLRNA-BERTa: LLM model for Drug-RNA target binding affinity prediction',
-          description: "with background image",
+          description: "DLRNA-BERTa is a dual transformer-based model that predicts drug-RNA binding affinity by combining ChemBERTa-v2 MTR for molecular structures and RNA-BERTa for RNA sequences. Originally developed as a master&#39;s thesis and now available in preprint, the model offers both a Python implementation and an interactive web interface for testing. The project demonstrates how large language models can be applied to computational drug discovery and RNA-targeted therapeutics.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/DLRNA-BERTa/";
             },},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/assets/pdf/cv.pdf", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
