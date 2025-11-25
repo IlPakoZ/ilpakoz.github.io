@@ -1,14 +1,16 @@
 ---
 layout: page
 title: "DLRNA-BERTa: LLM model for Drug-RNA target binding affinity prediction"
-description: with background image
+description: DLRNA-BERTa is a dual transformer-based model that predicts drug-RNA binding affinity by combining ChemBERTa-v2 MTR for molecular structures and RNA-BERTa for RNA sequences. Originally developed as a master's thesis and now available in preprint, the model offers both a Python implementation and an interactive web interface for testing. The project demonstrates how large language models can be applied to computational drug discovery and RNA-targeted therapeutics.
 img: assets/img/dlrnaberta/architecture.jpg
 importance: 1
 category: work
 related_publications: true
+text-align: justify
 ---
 
-DLRNA-BERTa is a Large Language Model (LLM) that can be used for predicting Drug-RNA target binding affinity (pKd). DLRNA-BERTa is a dual language model leveraging ChemBERTa-v2 MTR and our RNA-BERTa, two transformer models pretrained on large amount of SMILES data and RNA data (multi-task regression and masked-language-modeling, respectively).
+<div style="text-align: justify;">
+DLRNA-BERTa{% cite lobascio2025dlrna %} is a Large Language Model (LLM) that can be used for predicting Drug-RNA target binding affinity (pKd). DLRNA-BERTa is a dual language model leveraging ChemBERTa-v2 MTR{% cite ahmad2022chemberta %} and our RNA-BERTa, two transformer models pretrained on large amount of SMILES data and RNA data (multi-task regression and masked-language-modeling, respectively).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,4 +30,5 @@ The project, which started as my master's thesis, was improved and is currently 
 </div>
 <div class="caption">
     Here an image of the Hugging Face interface to test the model. The model can be tested <a href="https://huggingface.co/spaces/IlPakoZ/DLRNA-BERTa">here</a>.
+</div>
 </div>
