@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: pako-blog # blog_name will be displayed in your blog page
-blog_description: about science and creative work
+blog_description: about science, languages and creative work
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -200,7 +200,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-
 keep_files:
   - CNAME
   - .nojekyll

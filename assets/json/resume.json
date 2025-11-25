@@ -87,7 +87,7 @@
     {
       "name": "Data",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Large-scale data processing", "PostgreSQL", "Git version control", "SLURM-based high-performance computing"]
+      "keywords": ["Large-scale data processing", "PostgreSQL", "Git version control", "SLURM-based high-performance computing",  "Docker"]
     },
     {
       "name": "Other",
