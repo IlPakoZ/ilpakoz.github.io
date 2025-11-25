@@ -2,7 +2,7 @@
 layout: page
 title: DLRNA-BERTa\: LLM model for Drug-RNA target binding affinity prediction 
 description: with background image
-img: assets/img/dlrnaberta/.jpg
+img: assets/img/dlrnaberta/architecture.jpg
 importance: 1
 category: work
 related_publications: true

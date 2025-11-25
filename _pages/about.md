@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
 subtitle: Msc in Life Science Informatics at <a href='https://www.helsinki.fi/en'>University of Helsinki</a>
 
