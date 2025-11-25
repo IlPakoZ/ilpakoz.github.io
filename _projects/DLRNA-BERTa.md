@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DLRNA-BERTa\: LLM model for Drug-RNA target binding affinity prediction 
+title: "DLRNA-BERTa: LLM model for Drug-RNA target binding affinity prediction"
 description: with background image
 img: assets/img/dlrnaberta/architecture.jpg
 importance: 1
@@ -29,4 +29,3 @@ The project, which started as my master's thesis, was improved and is currently 
 <div class="caption">
     Here an image of the Hugging Face interface to test the model. The model can be tested <a href="https://huggingface.co/spaces/IlPakoZ/DLRNA-BERTa">here</a>.
 </div>
-

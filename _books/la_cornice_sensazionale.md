@@ -7,7 +7,7 @@ cover: assets/img/book_covers/la_cornice_sensazionale.jpg
 olid: OL60568644M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 8835832462 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: poetry italian
-#tags: 
+#tags:
 buy_link: https://www.amazon.it/Cornice-Sensazionale-dolore-dellinnocente-cantato/dp/8835832462
 #started: 2024-08-23
 finished: 2020-06-09
